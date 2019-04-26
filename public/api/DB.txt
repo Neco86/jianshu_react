@@ -1,0 +1,15 @@
+Users
+    id userName password  total      like    imgUrl  name
+    id 用户名    密码       总共写字     喜欢数   头像     昵称
+Passage
+    id  user    title   content       pic
+    id  User-id 文章题目  文章内容       文章图片
+Search
+    id search    times
+    id 搜索内容    搜索次数
+Home
+    id     pic    type
+    id     图片    轮播/右侧
+Topic
+    id title img 深度思考
+

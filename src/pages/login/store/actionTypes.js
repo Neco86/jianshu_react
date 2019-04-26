@@ -1,0 +1,6 @@
+export const LOGIN='login/login'
+export const GETLOGIN='login/get_Login'
+export const LOGOUT='login/logout'
+export const REGISTER='login/register'
+export const GETREGISTER='login/getregister'
+export const INITACTIVE='login/active'

@@ -1,0 +1,6 @@
+export const CHANGE_PAGE_LIST='home/change_page_list'
+export const GET_INIT_LIST='home/get_init_list'
+export const INIT_LIST='home/init_list'
+export const GET_MORE_LIST='home/get_more_list'
+export const MORE_LIST='home/more_list'
+export const TOGGLE_SCROLL_SHOW='home/toggle_scroll_show'
